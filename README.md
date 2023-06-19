@@ -35,4 +35,13 @@ If you terminate an instance within an ASG, which results in lowering the number
 
 ![tERMINATE AND NEW instance](https://github.com/Benn1440/Loadbalancing_in_AWS/assets/67696393/e821c843-bfc8-4a41-b9d5-fbd38ddcaa14)
 
+# Key 
+LB: Load Balancer
+ASG: Auto Scaling Group
+SG: Security Group
+
+# Reference
+
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
+
 
